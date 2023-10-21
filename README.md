@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bridget-nevel
-- 👀 I’m interested in sustainability, equitable algorithms, fostering an inclusive digital space. 
+- 👀 I’m interested in sustainability, equitable algorithms, and fostering an inclusive digital space. 
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on projects for the greater good.
 - 📫 How to reach me bridget4g@gmail.com
